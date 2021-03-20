@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanlele&show_icons=true&&line_height=20&theme=radical&layout=compact&hide=contribs,prs&hide_border=true&bg_color=0D1117&height=150)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlele&show_icons=true&theme=radical&layout=compact&hide=html,css&hide_border=true&bg_color=0D1117&height=150)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanlele&show_icons=true&&line_height=20&theme=radical&layout=compact&hide=contribs,prs&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlele&show_icons=true&theme=radical&layout=compact&hide=html,css&hide_border=true&bg_color=0D1117)
