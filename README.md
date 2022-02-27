@@ -6,14 +6,18 @@
 - Currently working with JavaScript and TypeScript
 - Continuous learning: Desktop, mobile, fronted, backend, devOps, games, designer
 
-
+<h3 align="center">Blogs 🌱</h3>
+<p align="center">
+    <a href="https://yanlele.github.io/node-index">
+        <img src="https://cdn.jsdelivr.net/gh/yanlele/node-index/static/devblogs.svg">
+    </a>
+</p>
 
 [comment]: <> (<img src="https://gpvc.arturio.dev/yanlele">)
 
 [comment]: <> (<img src="https://img.shields.io/github/followers/yanlele?label=Follow" style=" float:left, margin-right:10px" />)
 
 <br/>  
-<br/>
 
 
 <h2 align="center">
@@ -56,16 +60,13 @@ Other Languages I know
 <img alt="Badge" style="float: left; margin-right: 10px; margin-top: 10px;"  src="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=C Sharp&logoColor=white"/>
 </p>
 
-<br/>
+
 <br/>
 
 
 <h2 align="center">
     My contributions to open-source:
 </h2>
-
-<br/>
-
 
 <h3 align="center">github status</h3>
 <p align="center">
@@ -78,17 +79,8 @@ Other Languages I know
 </p>
 
 
-<br/>
-<br/>
 
 
-<h2 align="center">Blogs 🌱</h2>
-
-<p align="center">
-    <a href="https://yanlele.github.io/node-index">
-        <img src="https://cdn.jsdelivr.net/gh/yanlele/node-index/static/devblogs.svg">
-    </a>
-</p>
 
 
 
