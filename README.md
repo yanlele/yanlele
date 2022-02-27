@@ -45,7 +45,7 @@ Here are some technologies I use at work
 <img alt="Badge" style="float: left; margin-right: 10px; margin-top: 10px;"  src="https://img.shields.io/badge/uni_app%20-30B980.svg?&style=for-the-badge&logo=Minutemailer&logoColor=white"/>    
 <img alt="Badge" style="float: left; margin-right: 10px; margin-top: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px; margin-top: 10px;"  src="https://img.shields.io/badge/Vue.js%20-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
-<img alt="Badge" style="float: left; margin-right: 10px; margin-top: 10px;"  src="https://img.shields.io/badge/Devpost%20-003E54.svg?&style=for-the-badge&logo=Devpost&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px; margin-top: 10px;"  src="https://img.shields.io/badge/DevOps%20-003E54.svg?&style=for-the-badge&logo=Devpost&logoColor=white"/>
 </p>
 
 <br/>
