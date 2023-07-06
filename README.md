@@ -68,33 +68,15 @@ Other Languages I know
   My contributions to open-source:
 </h2>
 
-<style>
-    .container {
-        display: flex;
-    }
-    .left-column {
-        width: 50%;
-    }
-    .right-column {
-        width: 50%;
-    }
-</style>
+<h3 align="center">github status</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yanlele&show_icons=true&icon_color=blue&hide_title=false&disable_animations=false" alt="">
+</p>
 
-<div style="display:flex;">
-  <div style="width:50%;">
-    <h3 align="center">github status</h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yanlele&show_icons=true&icon_color=blue&hide_title=false&disable_animations=false" alt="">
-    </p>
-  </div>
-
-  <div style="width:50%;">
-    <h3 align="center">top languages</h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanlele&layout=compact&hide=html,css&langs_count=6" alt="">
-    </p>
-  </div>
-</div>
+<h3 align="center">top languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanlele&layout=compact&hide=html,css&langs_count=6" alt="">
+</p>
 
 
 
